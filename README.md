@@ -26,7 +26,8 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 - [Louise Boulangerie](https://maps.app.goo.gl/8acG9PFjCZh5abgP6): todo
 - [Pasticceria Alati-Caserta](https://maps.app.goo.gl/DtGzA6NL33p6JJAx5): todo
 - [Aux Merveilleux de Fred](https://maps.app.goo.gl/ADSwaYqUXA4p2Uyt6): 
-- [Hof Kelsten](https://maps.app.goo.gl/MW99CW7zrQHAs9zw7): Very good baguette and croissants. 
+- [Hof Kelsten](https://maps.app.goo.gl/MW99CW7zrQHAs9zw7): Very good baguette and croissants.
+- - [Toledo](todo): Very popular among our Plateau friends.
 - [Pâtisserie Coco](https://maps.app.goo.gl/dX6sAmy9QseQr5PR9): Nice Chinese bakery in Chinatown.
 - [TODO](todo): TODO: add one of the Portuguese bakeries for Pastel de Nata.
 
@@ -40,6 +41,8 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 
 - [MangeDansMonHood](https://maps.app.goo.gl/P89tYV1uarXhe4vLA): Some say this is the best burger in Montréal. They might be right.
 - [Double’s](https://maps.app.goo.gl/sCdWeujHPJcNdMjs9): todo
+- [Notre Boeauf de Grace](todo): 
+
 
  ### Cafés
 
@@ -51,6 +54,7 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 - [Café Paquebot Mont-Royal](https://maps.app.goo.gl/VnSomV9nFTGn1wdCA): Lowkey third-wave coffee shop. Try the miso caramel latte!
 - [x](y): todo
 - [Crew Collective & Cafe](https://maps.app.goo.gl/NhjwJF2AKFTGWEBR9): Café in a very pretty building. Gets very crowded on the weekend.
+- [Novanta](todo): Benno's favourite cafe for the vibes and the lovely owner's
 
 ### Poutine
 
@@ -131,6 +135,10 @@ Some general intro about Poutine.
 - [Bar Star Bar](https://maps.app.goo.gl/nnz6tGwKQfTkJPx79): todo
 - [HELM - Microbrasserie sur Bernard](https://maps.app.goo.gl/We6QFRXiVk2tFLbg6): todo
 - [](): The one brewery in the oldtown.
+- [Terrasse St-Ambroise](todo): Great beer garden along the canal (e.g. do a bike ride and get a beer here)
+
+## Bookstores
+- [The Word](todo)
 
 ## Museums
 
