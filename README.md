@@ -1,6 +1,6 @@
 # Things to do in Montréal
 
-A non-comprehensive list of places to go and things to do in Montréal curated by Marius, Benno and, Michael. Some of the information might be outdated so please double-check on Google Maps.
+A non-comprehensive list of places to go and things to do in Montréal curated by [Marius](https://mariusmosbach.com/), [Benno](https://bennokrojer.github.io/) and, [Michael](https://michaelrizvi.github.io/). Some of the information might be outdated so please double-check on Google Maps.
 
 Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/posts/2024-05-09-vancouver/).
 
