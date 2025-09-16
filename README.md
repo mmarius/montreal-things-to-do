@@ -104,7 +104,7 @@ Some general intro about Poutine.
 ### Thai
 
 - [Épicerie Pumpui](https://maps.app.goo.gl/KnzMkDtcfHooraxZA): Small thai counter near Mila serving up homemade curries, pad thai and other delights
-- [https://maps.app.goo.gl/YpHdjCYL43J1JyyX9](https://maps.app.goo.gl/YpHdjCYL43J1JyyX9): Sister restaurant to Pumpui. More of a sit-down vibe with plates to share and a menu that changes with the seasons.
+- [Pichai](https://maps.app.goo.gl/YpHdjCYL43J1JyyX9): Sister restaurant to Pumpui. More of a sit-down vibe with plates to share and a menu that changes with the seasons.
 - [x](y): todo
 
 ### Food courts
