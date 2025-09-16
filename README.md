@@ -45,10 +45,10 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 
  Some general intro about the ridicioulsy good coffee scene in Montreal.
 
-- [Café Myriade - Mont-Royal](https://maps.app.goo.gl/JJba3MmuW42NfHi4A): todo
-- [Café Caron & frères](https://maps.app.goo.gl/9ZJKtPH6oS27F6sG6): todo
-- [Café Even](https://maps.app.goo.gl/92kz7BXFwPPxq5Ju7): todo
-- [Café Paquebot Mont-Royal](https://maps.app.goo.gl/VnSomV9nFTGn1wdCA): todo
+- [Café Myriade - Mont-Royal](https://maps.app.goo.gl/JJba3MmuW42NfHi4A): Nice coffee shop with a slightly more Italian vibe. Has a fun outdoor sitting area
+- [Café Caron & frères](https://maps.app.goo.gl/9ZJKtPH6oS27F6sG6): Coffee shop owned by two brothers. They don't roast but they offer a selection of beans from Canada and the world which they often change!
+- [Café Even](https://maps.app.goo.gl/92kz7BXFwPPxq5Ju7): Near the Mila building. Roast their own beans on site. Great pour overs.
+- [Café Paquebot Mont-Royal](https://maps.app.goo.gl/VnSomV9nFTGn1wdCA): Lowkey third-wave coffee shop. Try the miso caramel latte!
 - [x](y): todo
 - [Crew Collective & Cafe](https://maps.app.goo.gl/NhjwJF2AKFTGWEBR9): Café in a very pretty building. Gets very crowded on the weekend.
 
@@ -64,10 +64,10 @@ Some general intro about Poutine.
 
 ### Pizza
 
-- [Pizza Bouqet](https://maps.app.goo.gl/M2ZyMUtcM1gAAUkRA): todo
+- [Pizza Bouqet](https://maps.app.goo.gl/M2ZyMUtcM1gAAUkRA): Great no frills NY-style pizza place selling pizza by the slice.
 - [Pizza Il Focolaio](https://maps.app.goo.gl/ZgQgMfqLixSTQizK6): todo
-- [Café San Gennaro](https://maps.app.goo.gl/ZwLmFg1i3rRsk9Vr9): todo
-- [Pizza Toni](https://maps.app.goo.gl/PwiScf97sRnxLDmBA): todo
+- [Café San Gennaro](https://maps.app.goo.gl/ZwLmFg1i3rRsk9Vr9): Roman square pizza sold by the slice. Try the potato pizza. Maybe have dessert also, they have a great selection of Italian pastries
+- [Pizza Toni](https://maps.app.goo.gl/PwiScf97sRnxLDmBA): Another great NY-style 
 - [SEGRETA](https://maps.app.goo.gl/MoMPPirLoM49dskG9): todo
 
 ### Sandwiches
@@ -78,8 +78,9 @@ Some general intro about Poutine.
 - [Lester's Deli](https://maps.app.goo.gl/ccxBr5YqsasHuCFy5): Smoked meat
 - [PIAZZA SALUMI](https://maps.app.goo.gl/tK2FvakZNC8EuZcA6): todo
 - [Panino Pazzo](https://maps.app.goo.gl/LQxi8FG7DPX6cCC3A): todo
-- [Schwartz's Deli](https://maps.app.goo.gl/tpSRi8D8EXTzywWB6): todo
+- [Schwartz's Deli](https://maps.app.goo.gl/tpSRi8D8EXTzywWB6): An institution in Montréal on Saint-Laurent street. Best known for their smoked meat sandwiches.
 - [Wilensky's](https://maps.app.goo.gl/YgvEMPYVbvqQWyk9A): todo
+- [Renzo's](https://maps.app.goo.gl/pJm3xZLskPw8MbMY7): Relatively new sandwich place in Mile-End. Great Italian style sandwiches with a twist. Big portions one sandwich for two is plenty 
 
 ### Ramen
 
@@ -95,11 +96,15 @@ Some general intro about Poutine.
 
 ### Mexican
 
-- [x](y): todo
+- [La Capital](https://maps.app.goo.gl/UjXh5y8gk1yED3q19): Solid taqueria near Chinatown. Regarded as one of the best in Montreal
+- [La Toxica](https://maps.app.goo.gl/oV86RgCY3NUj1LHt5): Specialize in tacos de Birria, which are braised beef tacos with cheese served with the consommé (broth) on the side. Great for cold nights
+- [Carnitas Michoacanas](https://maps.app.goo.gl/GT8LHwkmNWoBzohE7): Specialize in carnitas. Ask for buch or orejas if feeling adventurous
+- [Tacos Victor](https://maps.app.goo.gl/93oAUqbH3r6WTE1p6): Institution near Griffintown. Great tacos de lengua and steak tacos.
 
 ### Thai
 
-- [Épicerie Pumpui](https://maps.app.goo.gl/KnzMkDtcfHooraxZA): todo
+- [Épicerie Pumpui](https://maps.app.goo.gl/KnzMkDtcfHooraxZA): Small thai counter near Mila serving up homemade curries, pad thai and other delights
+- [https://maps.app.goo.gl/YpHdjCYL43J1JyyX9](https://maps.app.goo.gl/YpHdjCYL43J1JyyX9): Sister restaurant to Pumpui. More of a sit-down vibe with plates to share and a menu that changes with the seasons.
 - [x](y): todo
 
 ### Food courts
@@ -109,8 +114,8 @@ Some general intro about Poutine.
 
 ### Other
 
-- [Drogheria Fine](https://maps.app.goo.gl/u9NHyVLAmLiQWPcd7): todo
-- [Falafel Yoni](https://maps.app.goo.gl/3kLAFpCzBRVwWpVJ8): TODO
+- [Drogheria Fine](https://maps.app.goo.gl/u9NHyVLAmLiQWPcd7): Cheap counter for piping hot gnocchi served with bolognese and a mountain or parmesan. 
+- [Falafel Yoni](https://maps.app.goo.gl/3kLAFpCzBRVwWpVJ8): One of the best falafel places around Mile-End
 - [Bernie Beigne](https://maps.app.goo.gl/rgt87PZh5deHvKah9): todo
 - [Jean-Talon Markt](https://maps.app.goo.gl/LwG67j3SZxG36GNM7): todo
 - [Stash Café](https://maps.app.goo.gl/bwVttvJqoTN7UQGVA): 
