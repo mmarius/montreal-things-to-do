@@ -1,6 +1,6 @@
-# Things to do in Montreal
+# Things to do in Montréal
 
-A non-comprehensive list of places to go and things to do in Montreal curated by Marius, Benno and, Michael. Some of the information might be outdated so please double-check on Google Maps.
+A non-comprehensive list of places to go and things to do in Montréal curated by Marius, Benno and, Michael. Some of the information might be outdated so please double-check on Google Maps.
 
 Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/posts/2024-05-09-vancouver/).
 
@@ -15,9 +15,9 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 
 ## Getting around
 
-- [Bixi](https://bixi.com/en/): Bixi is a bicycle sharing system in the metropolitan are of Montreal. Bixi is a great way to explore the city. I recommend downloading the app beforehand.
-- [STM](https://www.stm.info/en): STM is the public transport agency in Montreal. They operate busses and Montreal metro. See here for [fares](https://www.stm.info/en/info/fares/transit-fares).
-- Walking. Despite being a city in North America, Montreal is a very walkable city. I highly recommend walking around it's many great neighborhoods.
+- [Bixi](https://bixi.com/en/): Bixi is a bicycle sharing system in the metropolitan are of Montréal. It's a great way to explore the city. Make sure to download and setup the app beforehand.
+- [STM](https://www.stm.info/en): STM is the public transport agency in Montréal. They operate busses and Montréal metro. See here for [fares](https://www.stm.info/en/info/fares/transit-fares).
+- Walking. Despite being a city in North America, Montréal is a very walkable city. We highly recommend walking around it's many great neighborhoods.
 
 ## Food
 
@@ -26,9 +26,9 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 - [Louise Boulangerie](https://maps.app.goo.gl/8acG9PFjCZh5abgP6): todo
 - [Pasticceria Alati-Caserta](https://maps.app.goo.gl/DtGzA6NL33p6JJAx5): todo
 - [Aux Merveilleux de Fred](https://maps.app.goo.gl/ADSwaYqUXA4p2Uyt6): 
-- [Hof Kelsten](todo): todo
-- [Hof Kelsten](todo): The Chinese bakery in Chinatown.
-- [Hof Kelsten](todo): One of the Portuguese bakeries for Pastéis de Nata.
+- [Hof Kelsten](https://maps.app.goo.gl/MW99CW7zrQHAs9zw7): Very good baguette and croissants. 
+- [Pâtisserie Coco](https://maps.app.goo.gl/dX6sAmy9QseQr5PR9): Nice Chinese bakery in Chinatown.
+- [TODO](todo): TODO: add one of the Portuguese bakeries for Pastel de Nata.
 
 ### Bagels
 
@@ -38,12 +38,12 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 
 ### Burger
 
-- [MangeDansMonHood](https://maps.app.goo.gl/P89tYV1uarXhe4vLA): Some say this is the best burger in Montreal. They might be right.
- - [Double’s](https://maps.app.goo.gl/sCdWeujHPJcNdMjs9): todo
+- [MangeDansMonHood](https://maps.app.goo.gl/P89tYV1uarXhe4vLA): Some say this is the best burger in Montréal. They might be right.
+- [Double’s](https://maps.app.goo.gl/sCdWeujHPJcNdMjs9): todo
 
  ### Cafés
 
- Some general intro about the ridicioulsy good coffee scene in Montreal.
+ Some general intro about the ridicioulsy good coffee scene in Montréal.
 
 - [Café Myriade - Mont-Royal](https://maps.app.goo.gl/JJba3MmuW42NfHi4A): Nice coffee shop with a slightly more Italian vibe. Has a fun outdoor sitting area
 - [Café Caron & frères](https://maps.app.goo.gl/9ZJKtPH6oS27F6sG6): Coffee shop owned by two brothers. They don't roast but they offer a selection of beans from Canada and the world which they often change!
@@ -84,7 +84,7 @@ Some general intro about Poutine.
 
 ### Ramen
 
-- [Yokato Yokabai Ramen](https://maps.app.goo.gl/MvvoYV79zyFKZwG77): Hands down the best Ramen in Montreal. It's a bit pricy though.
+- [Yokato Yokabai Ramen](https://maps.app.goo.gl/MvvoYV79zyFKZwG77): Hands down the best Ramen in Montréal. It's a bit pricy though.
 - [](): todo
 
 ### Chinese
@@ -96,7 +96,7 @@ Some general intro about Poutine.
 
 ### Mexican
 
-- [La Capital](https://maps.app.goo.gl/UjXh5y8gk1yED3q19): Solid taqueria near Chinatown. Regarded as one of the best in Montreal
+- [La Capital](https://maps.app.goo.gl/UjXh5y8gk1yED3q19): Solid taqueria near Chinatown. Regarded as one of the best in Montréal
 - [La Toxica](https://maps.app.goo.gl/oV86RgCY3NUj1LHt5): Specialize in tacos de Birria, which are braised beef tacos with cheese served with the consommé (broth) on the side. Great for cold nights
 - [Carnitas Michoacanas](https://maps.app.goo.gl/GT8LHwkmNWoBzohE7): Specialize in carnitas. Ask for buch or orejas if feeling adventurous
 - [Tacos Victor](https://maps.app.goo.gl/93oAUqbH3r6WTE1p6): Institution near Griffintown. Great tacos de lengua and steak tacos.
@@ -138,7 +138,7 @@ Some general intro about Poutine.
 
 ## Parks
 
-Some general intro about the great parks in Montreal. Mention also the fact that you should bring a snack if you drink alcohol.
+Some general intro about the great parks in Montréal. Mention also the fact that you should bring a snack if you drink alcohol.
 
 - [](): todo
 
@@ -149,4 +149,4 @@ Some general intro about the great parks in Montreal. Mention also the fact that
 
 ## Misc.
 
-- - [](): Biking along the Lachine canal.
+- [](): Biking along the Lachine canal.
