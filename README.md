@@ -181,5 +181,6 @@ You have to bring a snack if you plan to drink alcohol in a park.
 
 - Walk up Mont-Royal.
 - Biking along the Lachine canal.
+- Botanical Garden is open at night during fall with a light show: [Gardens of Light](https://calendrier.espacepourlavie.ca/gardens-of-light)
 - Montreal is famous for its murals (wall art). There are some guided tours!
 - A crowdsourced map of the vibe of each neighborhood: [HoodMaps Montreal](https://hoodmaps.com/montreal-neighborhood-map).
