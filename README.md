@@ -40,16 +40,10 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 
 ## Food
 
-### Bagels
-
-- [Fairmount Bagel](https://maps.app.goo.gl/K3wBonNEYAmaypHj6): One of the two famous bagel bakeries in Montréal. Paying by cash is recommended. +5% fee for using a credit card.
-- [St-Viateur Bagel](https://maps.app.goo.gl/tufpCjcKPkJFLEdz5): The other famous bagel bakery in Montréal. They also have a [café](https://maps.app.goo.gl/zLywjdL8pChoGCzL8) on Rue Mont Royal (very long line on the weekend).
-
-Make sure to try both and let us know which one you like better ;).
 
 ### Bakeries
 
-- [Louise Boulangerie](https://maps.app.goo.gl/8acG9PFjCZh5abgP6): Very good bakery in Little Italy.
+- [Louise Boulangerie](https://maps.app.goo.gl/8acG9PFjCZh5abgP6): A go-to place for Mila folks to get some of the best croissants, or other fancy pastries, in town.
 - [Pasticceria Alati-Caserta](https://maps.app.goo.gl/DtGzA6NL33p6JJAx5): todo
 - [Aux Merveilleux de Fred](https://maps.app.goo.gl/ADSwaYqUXA4p2Uyt6): todo
 - [Hof Kelsten](https://maps.app.goo.gl/MW99CW7zrQHAs9zw7): Very good baguette and croissants.
@@ -57,11 +51,19 @@ Make sure to try both and let us know which one you like better ;).
 - [Pâtisserie Coco](https://maps.app.goo.gl/dX6sAmy9QseQr5PR9): Nice Chinese bakery in Chinatown.
 - [Padaria Portuguesa](https://maps.app.goo.gl/S7UiiBdYukdu55Ri6): Make sure to try their Pastel de Nata.
 
+### Bagels
+
+- [Fairmount Bagel](https://maps.app.goo.gl/K3wBonNEYAmaypHj6): Arguably the best bagel place in town. There is a huge rivalry with the slightly more famous St Viateur. But we are loyal to Fairmount bagels! It is open 24/7, so get oven-fresh bagels after a long night out! This institution of Montreal culture is surrounded by two other iconic places: Gnocchi and Kem Coba (ice cream). Paying by cash is recommended. +5% fee for using a credit card.
+- [St-Viateur Bagel](https://maps.app.goo.gl/tufpCjcKPkJFLEdz5): The other famous bagel bakery in Montréal. They also have a café on Rue Mont Royal (very long line on the weekend). They also have a [café](https://maps.app.goo.gl/zLywjdL8pChoGCzL8) on Rue Mont Royal.
+
+Make sure to try both and let us know which one you like better ;).
+
 ### Burger
 
 - [MangeDansMonHood](https://maps.app.goo.gl/P89tYV1uarXhe4vLA): Some say this is the best burger in Montréal. They might be right.
-- [Double’s](https://maps.app.goo.gl/sCdWeujHPJcNdMjs9): Bar with great burgers.
-- [Notre Boeauf de Grace](todo):
+- [Double’s](https://maps.app.goo.gl/sCdWeujHPJcNdMjs9): todo
+- [Notre Boeauf de Grace](https://maps.app.goo.gl/Ejviouy3fKMvCbZ89): Probably Benno's favourite burger place with fond memories.
+
 
 ### Cafés
 
@@ -72,8 +74,7 @@ Montreal has a ridicioulsy good coffee scene and you can find great coffee shops
 - [Café Even](https://maps.app.goo.gl/92kz7BXFwPPxq5Ju7): Near the Mila building. Roast their own beans on site. Great pour overs. Definitely worth a visit.
 - [Café Paquebot Mont-Royal](https://maps.app.goo.gl/VnSomV9nFTGn1wdCA): Lowkey third-wave coffee shop. Try the miso caramel latte!
 - [Crew Collective & Cafe](https://maps.app.goo.gl/NhjwJF2AKFTGWEBR9): Café in a very pretty building. Gets very crowded on the weekend.
-- [Novanta](https://maps.app.goo.gl/tNNWeG1wyNj1gLXL6): Benno's favourite cafe for the vibes and the lovely owner.
-- [TODO](todo): Add more cafés.
+- [Novanta](https://maps.app.goo.gl/1pfjgYeRZFgKac2R9): Benno's favourite cafe for the vibes and the lovely Italian owners.
 
 ### Poutine
 
@@ -81,9 +82,9 @@ You CANNOT visit Montréal without having poutine.
 
 - [Ma Poule Mouillée](https://maps.app.goo.gl/dhssyYFJbC7wVfm7A): TODO
 - [Romados](https://maps.app.goo.gl/xTUuWhCc7NNt3ynT7): If you like chicken on your poutine, go here.
-- [Patati Patata Friterie de Luxe](https://maps.app.goo.gl/u1oQmuMz7GcEanpDA): Benno's and Marius' favorite poutine place. Very small place with great vibes.
+- [Patati Patata Friterie de Luxe](https://maps.app.goo.gl/u1oQmuMz7GcEanpDA): Benno's and Marius' favorite poutine place. Very small place with great vibes. (Benno: they add a bit of wine to the sauce *chef's kiss*)
 - [Chez Claudette](https://maps.app.goo.gl/d1i5M9c4L9UD7Eb78): Casse-croûte with a large selection of poutine.
-- [La Banquise](https://maps.app.goo.gl/s6j96aWxWRgTq5637): todo
+- [La Banquise](https://maps.app.goo.gl/s6j96aWxWRgTq5637): The most famous poutine in Montreal. 24/7 open, very diverse toppings.
 
 ### Pizza
 
@@ -156,8 +157,8 @@ You CANNOT visit Montréal without having poutine.
 - [Terrasse St-Ambroise](todo): Great beer garden along the canal (e.g. do a bike ride and get a beer here). Check on their website for the opening hours.
 
 ## Bookstores
-
-- [The Word](todo)
+- [The Word](https://maps.app.goo.gl/MaQD6GduVRRg1JpE6): iconic book store near McGill catering to young intellectuals.
+- [Joie de Livre](https://maps.app.goo.gl/Fg6yqeHxNaf2cDWE9): bookstore, cafe, bar in one place.
 
 ## Museums
 
@@ -165,16 +166,20 @@ You CANNOT visit Montréal without having poutine.
 
 ## Parks
 
-Some general intro about the great parks in Montréal. Mention also the fact that you should bring a snack if you drink alcohol.
+You have to bring a snack if you plan to drink alcohol in a park.
 
+- [](): todo
+- [](): todo
 - [](): todo
 
 ## Vintage shopping
 
-- [](): todo
+- [Eva B](https://maps.app.goo.gl/GUzSWNuSgj33ox5x6): the most well-known thrift store in town. Has a fancier cousin called Eva D down the street.
 - [](): todo
 
 ## Misc.
 
-- [](): Walk up Mont-Royal.
-- [](): Biking along the Lachine canal.
+- Walk up Mont-Royal.
+- Biking along the Lachine canal.
+- Montreal is famous for its murals (wall art). There are some guided tours!
+- A crowdsourced map of the vibe of each neighborhood: [HoodMaps Montreal](https://hoodmaps.com/montreal-neighborhood-map).
