@@ -86,6 +86,8 @@ You CANNOT visit Montréal without having poutine.
 - [Chez Claudette](https://maps.app.goo.gl/d1i5M9c4L9UD7Eb78): Casse-croûte with a large selection of poutine.
 - [La Banquise](https://maps.app.goo.gl/s6j96aWxWRgTq5637): The most famous poutine in Montreal. 24/7 open, very diverse toppings.
 
+![Some of us at Patati Patata - true Montreal vibes](20230826_120008.jpg)
+
 ### Pizza
 
 - [Pizza Bouqet](https://maps.app.goo.gl/M2ZyMUtcM1gAAUkRA): Great no frills NY-style pizza place selling pizza by the slice.
