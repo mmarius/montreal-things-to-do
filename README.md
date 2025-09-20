@@ -87,7 +87,7 @@ You CANNOT visit Montréal without having poutine.
 - [La Banquise](https://maps.app.goo.gl/s6j96aWxWRgTq5637): The most famous poutine in Montreal. 24/7 open, very diverse toppings.
 
 <p align="center">
-  <img src="IMG-20250912-WA0025.jpg" alt="Patati Patata" width="300"/>
+  <img src="IMG-20250912-WA0025.jpg" alt="Patati Patata" width="450"/>
   <br>
   <em>Some of us at Patati Patata - true Montreal vibes</em>
 </p>
