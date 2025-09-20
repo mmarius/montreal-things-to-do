@@ -30,7 +30,7 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 
 ## COLM 2025 specific info
 
-[COLM 2025](https://colmweb.org/) will happen from October 7th to 10th at the [Palais des Congrès](https://maps.app.goo.gl/2KBzjB32JPW4WBkh8) in Downtown Montréal. In my opinion (Marius), this is the least interesting part of Montréal. Luckily, the Palais des Congrès is connected to the Place-d'Armes metro station (orange line), so it will be easy to explore the city from there.
+[COLM 2025](https://colmweb.org/) will happen from October 7th to 10th at the [Palais des Congrès](https://maps.app.goo.gl/2KBzjB32JPW4WBkh8) in Downtown Montréal. In my opinion (Marius), this is the least interesting part of Montréal. Luckily, the Palais des Congrès is connected to the Place-d'Armes metro station (orange line), so it will be easy to explore the city from there. At least you're very close to Montreal's most famous church, Notre-Dame!
 
 ## Getting around
 
@@ -104,13 +104,13 @@ You CANNOT visit Montréal without having poutine.
 
 - [Kahwa Café](https://maps.app.goo.gl/gG9XgS2mq5r35toA9): todo
 - [Capitaine Sandwich](https://maps.app.goo.gl/nfB4ggNEuHiTBjcp9): todo
-- [Dépanneur Le Pick Up](https://maps.app.goo.gl/YTQeR4wVgKF8Eod49): todo
+- [Dépanneur Le Pick Up](https://maps.app.goo.gl/YTQeR4wVgKF8Eod49): great spot near Mila, the halloumi sandwich is great (Benno)
 - [Lester's Deli](https://maps.app.goo.gl/ccxBr5YqsasHuCFy5): Smoked meat
-- [PIAZZA SALUMI](https://maps.app.goo.gl/tK2FvakZNC8EuZcA6): todo
+- [PIAZZA SALUMI](https://maps.app.goo.gl/tK2FvakZNC8EuZcA6): right in the heart of Little Italy, and you feel that from the second you walk in.
 - [Panino Pazzo](https://maps.app.goo.gl/LQxi8FG7DPX6cCC3A): todo
 - [Schwartz's Deli](https://maps.app.goo.gl/tpSRi8D8EXTzywWB6): An institution in Montréal on Saint-Laurent street. Best known for their smoked meat sandwiches.
-- [Wilensky's](https://maps.app.goo.gl/YgvEMPYVbvqQWyk9A): todo
-- [Renzo's](https://maps.app.goo.gl/pJm3xZLskPw8MbMY7): Relatively new sandwich place in Mile-End. Great Italian style sandwiches with a twist. Big portions one sandwich for two is plenty.
+- [Wilensky's](https://maps.app.goo.gl/YgvEMPYVbvqQWyk9A): old-school, down-to-earth, cash-only, iconic, you feel not much has changed much since the 40s/50s/60s.
+- [Renzo's](https://maps.app.goo.gl/pJm3xZLskPw8MbMY7): Relatively new sandwich place in Mile-End. #HipsterMileEnd. Great Italian style sandwiches with a twist. Big portions one sandwich for two is plenty.
 
 ### Ramen
 
@@ -164,7 +164,7 @@ You CANNOT visit Montréal without having poutine.
 
 ## Bookstores
 - [The Word](https://maps.app.goo.gl/MaQD6GduVRRg1JpE6): iconic book store near McGill catering to young intellectuals.
-- [Joie de Livre](https://maps.app.goo.gl/Fg6yqeHxNaf2cDWE9): bookstore, cafe, bar in one place.
+- [Joie de Livre](https://maps.app.goo.gl/Fg6yqeHxNaf2cDWE9): bookstore, cafe, bar, all in one place.
 
 ## Museums
 
