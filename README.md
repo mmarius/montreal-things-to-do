@@ -160,3 +160,4 @@ Some general intro about the great parks in Montréal. Mention also the fact tha
 
 - [](): Biking along the Lachine canal.
 - Montreal is famous for its murals (wall art). There are some guided tours!
+- A crowdsourced map of the vibe of each neighborhood: [HoodMaps Montreal](https://hoodmaps.com/montreal-neighborhood-map)
