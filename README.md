@@ -30,13 +30,13 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 
 ## COLM 2025 specific info
 
-[COLM 2025](https://colmweb.org/) will happen from October 7th to 10th at the [Palais des Congrès](https://maps.app.goo.gl/2KBzjB32JPW4WBkh8) in Downtown Montréal. In my opinion (Marius), this is the least interesting part of Montréal. Luckily, the Palais des Congrès is connected to the Place-d'Armes metro station (orange line), so it will be easy to explore the city from there.
+[COLM 2025](https://colmweb.org/) will happen from October 7th to 10th at the [Palais des Congrès](https://maps.app.goo.gl/2KBzjB32JPW4WBkh8) in Downtown Montréal. In my opinion (Marius), this is the least interesting part of Montréal. Luckily, the Palais des Congrès is connected to the Place-d'Armes metro station (orange line), so it will be easy to explore the city from there (see below for how to by metro tickets).
 
 ## Getting around
 
 - [Bixi](https://bixi.com/en/): Bixi is a bicycle sharing system in the metropolitan are of Montréal. It's a great way to explore the city. Make sure to download and setup the app beforehand.
 - [STM](https://www.stm.info/en): STM is the public transport agency in Montréal. They operate busses and Montréal metro. See here for [fares](https://www.stm.info/en/info/fares/transit-fares). You can buy tickets at ticket machines inside the metro stations using cash or credit cards.
-- Walking. Montréal is a very walkable city. We highly recommend walking around it's many great neighborhoods.
+- Walking: Montréal is a very walkable city. We highly recommend walking around it's many great neighborhoods.
 
 ## Food
 
@@ -61,7 +61,7 @@ Make sure to try both and let us know which one you like better ;).
 ### Burger
 
 - [MangeDansMonHood](https://maps.app.goo.gl/P89tYV1uarXhe4vLA): Some say this is the best burger in Montréal. They might be right.
-- [Double’s](https://maps.app.goo.gl/sCdWeujHPJcNdMjs9): todo
+- [Double’s](https://maps.app.goo.gl/sCdWeujHPJcNdMjs9): Bar with great burgers.
 - [Notre Boeauf de Grace](https://maps.app.goo.gl/Ejviouy3fKMvCbZ89): Probably Benno's favourite burger place with fond memories.
 
 
@@ -80,7 +80,7 @@ Montreal has a ridicioulsy good coffee scene and you can find great coffee shops
 
 You CANNOT visit Montréal without having poutine.
 
-- [Ma Poule Mouillée](https://maps.app.goo.gl/dhssyYFJbC7wVfm7A): TODO
+- [Ma Poule Mouillée](https://maps.app.goo.gl/dhssyYFJbC7wVfm7A): They have a very good poutine with chorizo and chicken. Long lines on the weekend. (Ramados is a good alternative for poutine with chicken)
 - [Romados](https://maps.app.goo.gl/xTUuWhCc7NNt3ynT7): If you like chicken on your poutine, go here.
 - [Patati Patata Friterie de Luxe](https://maps.app.goo.gl/u1oQmuMz7GcEanpDA): Benno's and Marius' favorite poutine place. Very small place with great vibes. (Benno: they add a bit of wine to the sauce *chef's kiss*)
 - [Chez Claudette](https://maps.app.goo.gl/d1i5M9c4L9UD7Eb78): Casse-croûte with a large selection of poutine.
@@ -96,8 +96,8 @@ You CANNOT visit Montréal without having poutine.
 
 ### Sandwiches
 
-- [Kahwa Café](https://maps.app.goo.gl/gG9XgS2mq5r35toA9): todo
-- [Capitaine Sandwich](https://maps.app.goo.gl/nfB4ggNEuHiTBjcp9): todo
+- [Kahwa Café](https://maps.app.goo.gl/gG9XgS2mq5r35toA9): One of the best sandwiches in Montréal. They make their own bread. The chicken sandwich is a must try. Bring cash if you don't have a debit card.
+- [Capitaine Sandwich](https://maps.app.goo.gl/nfB4ggNEuHiTBjcp9): Another great sandwich place. Try the haloumi sandwich.
 - [Dépanneur Le Pick Up](https://maps.app.goo.gl/YTQeR4wVgKF8Eod49): todo
 - [Lester's Deli](https://maps.app.goo.gl/ccxBr5YqsasHuCFy5): Smoked meat
 - [PIAZZA SALUMI](https://maps.app.goo.gl/tK2FvakZNC8EuZcA6): todo
@@ -141,7 +141,7 @@ You CANNOT visit Montréal without having poutine.
 - [Falafel Yoni](https://maps.app.goo.gl/3kLAFpCzBRVwWpVJ8): One of the best falafel places around Mile-End.
 - [Bernie Beigne](https://maps.app.goo.gl/rgt87PZh5deHvKah9): Get the glazed donuts. Get very busy on the weekend.
 - [Jean-Talon Markt](https://maps.app.goo.gl/LwG67j3SZxG36GNM7): Nice farmers market. There are several restaurants and cafes around the market as well. Definitely worth a visit.
-- [Stash Café](https://maps.app.goo.gl/bwVttvJqoTN7UQGVA):
+- [Stash Café](https://maps.app.goo.gl/bwVttvJqoTN7UQGVA): todo
 - [Tesfa](https://maps.app.goo.gl/LgtG9jzD4J42wCcc9): todo
 - [La Belle Tonki](https://maps.app.goo.gl/sRvj9QxgY9EvuRh78): todo
 
@@ -159,6 +159,7 @@ You CANNOT visit Montréal without having poutine.
 ## Bookstores
 - [The Word](https://maps.app.goo.gl/MaQD6GduVRRg1JpE6): iconic book store near McGill catering to young intellectuals.
 - [Joie de Livre](https://maps.app.goo.gl/Fg6yqeHxNaf2cDWE9): bookstore, cafe, bar in one place.
+- [De Stiil](https://maps.app.goo.gl/uQQuV3ap9jtZGKyn8): Great English bookstore on Duluth.
 
 ## Museums
 
