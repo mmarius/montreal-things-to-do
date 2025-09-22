@@ -87,8 +87,12 @@ Montréal has a ridiculously good coffee scene and you can find great coffee sho
 - [Café Paquebot Mont-Royal](https://maps.app.goo.gl/VnSomV9nFTGn1wdCA): Lowkey third-wave coffee shop. Try the miso caramel latte!
 - [Novanta](https://maps.app.goo.gl/1pfjgYeRZFgKac2R9): Benno's favourite cafe for the vibes and the lovely Italian owners.
 - [Escape](https://maps.app.goo.gl/R8N5BeGabyZRF2Lz6): Amazing coffee. Make sure to get a pour over.
-- [Cafe Eclair](https://maps.app.goo.gl/qGTQbeMv9tZ2byJ6A): Great third wave coffee with awesome selection of coffee from Taith, The Barn, etc. They have have a small library if you want to read a book while enjoying your coffee.
-- [Tommy Cafe](https://share.google/qkVRnrQuGmv4oeZi2): Nice cafe near the Palais des Congres.
+- [Café In Gamba](https://maps.app.goo.gl/teBdEq8bmDerCAny8): Great coffee and Elinor recommends the quiche. Several locations in the Mile End (Avenue Parc, St Viateur E., and by Laurier park).
+- [Café Rì Yuè](https://maps.app.goo.gl/CuW6GrFXUxpvo2Y28): _Adorable_ cafe with lots of specialty drinks and creative pastries in Place des Arts.
+- [Pigeon Café & Bar](https://maps.app.goo.gl/mK2S4ofmkvCpXeo39): Cafe/restaurant with really great food in general (especially breakfast/brunch!) but also great for just a cup of coffee.
+- [Cafe Origine](https://maps.app.goo.gl/rsqnf4wtWDFMRGFu6): Good coffee, cute vibes and art.
+- [OSMO X MARUSAN Café-Terrasse](https://maps.app.goo.gl/6jMm9836yicUfCiX8): Cool sort of undergound hip vibes with outdoor seating in the backyward and it's a bar at night. Great selection of drinks and food, also suitable if you want to work on laptop.
+- [Pikolo Espresso Bar](https://maps.app.goo.gl/yu9G5t41DeR8d5Qp7): Great coffee!
 
 ### Poutine
 
@@ -125,12 +129,14 @@ You CANNOT visit Montréal without having poutine.
 - [Schwartz's Deli](https://maps.app.goo.gl/tpSRi8D8EXTzywWB6): An institution in Montréal on Saint-Laurent street. Best known for their smoked meat sandwiches.
 - [Wilensky's](https://maps.app.goo.gl/YgvEMPYVbvqQWyk9A): Old-school, down-to-earth, cash-only, iconic, you feel not much has changed much since the 40s/50s/60s.
 - [Renzo's](https://maps.app.goo.gl/pJm3xZLskPw8MbMY7): Relatively new sandwich place in Mile-End. #HipsterMileEnd. Great Italian style sandwiches with a twist. Big portions one sandwich for two is plenty.
+- [Café Santropol](https://maps.app.goo.gl/fbehKUKfKpStr1Wg6): Great spot in the Plateau right next to Parc Jeanne-Mance. Also has a very vibey backyard for outdoor seating.
 
 ### Ramen
 
 - [Yokato Yokabai Ramen](https://maps.app.goo.gl/MvvoYV79zyFKZwG77): Hands down the best Ramen in Montréal. They recently got featured in the Guide Michelin. They don't take reservations but they have a waitlist.
 - [Kazo Ramen](https://maps.app.goo.gl/D1L2PHXSfYUzPC5D9): Solid ramen place with interesting decoration. 
 - [Sansotei Ramen](https://maps.app.goo.gl/mgMyQT7mc7Uy1vjW7): Another solid ramen place.
+- [Umami Ramen & Izakaya](https://maps.app.goo.gl/1tCY4SXTyxtxnDNg6): Great vegan ramen place, also has creative cocktails. It's right next to Mila.
 
 ### Chinese
 
