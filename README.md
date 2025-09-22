@@ -110,6 +110,7 @@ You CANNOT visit Montréal without having poutine.
 
 - [Pizza Bouqet](https://maps.app.goo.gl/M2ZyMUtcM1gAAUkRA): Great no frills NY-style pizza place selling pizza by the slice.
 - [Pizza Il Focolaio](https://maps.app.goo.gl/ZgQgMfqLixSTQizK6): Great Italian restaurant in Downtown. Also make sure to try their salad.
+- [Bottega](https://share.google/kRFmJsIKtDSG1RZi0): Good place to get Neapolitan-style pizza.
 - [Café San Gennaro](https://maps.app.goo.gl/ZwLmFg1i3rRsk9Vr9): Roman square pizza sold by the slice. Try the potato pizza. Maybe have dessert also, they have a great selection of Italian pastries.
 - [Pizza Toni](https://maps.app.goo.gl/PwiScf97sRnxLDmBA): Another great NY-style pizza place.
 - [SEGRETA](https://maps.app.goo.gl/MoMPPirLoM49dskG9): Another well known pizza place in Montréal. Also sells pizza by the slice.
