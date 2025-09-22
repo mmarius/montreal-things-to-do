@@ -116,7 +116,7 @@ You CANNOT visit Montréal without having poutine.
 
 - [Kahwa Café](https://maps.app.goo.gl/gG9XgS2mq5r35toA9): One of the best sandwiches in Montréal. They make their own bread. The chicken sandwich is a must try. Bring cash if you don't have a debit card. They also have a [second location](https://maps.app.goo.gl/gUbGSLuBU3hZzCXGA) on Rachel.
 - [Capitaine Sandwich](https://maps.app.goo.gl/nfB4ggNEuHiTBjcp9): Another great sandwich place. Try the haloumi sandwich.
-- [Dépanneur Le Pick Up](https://maps.app.goo.gl/YTQeR4wVgKF8Eod49): great spot near Mila, the halloumi sandwich is great (Benno)
+- [Dépanneur Le Pick Up](https://maps.app.goo.gl/YTQeR4wVgKF8Eod49): Great spot near Mila, the halloumi sandwich is great (Benno)
 - [Lester's Deli](https://maps.app.goo.gl/ccxBr5YqsasHuCFy5): Known for their smoked meat.
 - [PIAZZA SALUMI](https://maps.app.goo.gl/tK2FvakZNC8EuZcA6): Right in the heart of Little Italy, and you feel that from the second you walk in.
 - [Panino Pazzo](https://maps.app.goo.gl/LQxi8FG7DPX6cCC3A): Great Italian sandwich place.
@@ -179,8 +179,8 @@ You CANNOT visit Montréal without having poutine.
 - [Projet Pilote](https://maps.app.goo.gl/qyHoqib7hyPAJcQj6): Great cocktail bar on Rue Rachel (so it's easy to bike there). They also brew their own beers and make personalized cocktails based on what you like.
 
 ## Bookstores
-- [The Word](https://maps.app.goo.gl/MaQD6GduVRRg1JpE6): iconic book store near McGill catering to young intellectuals.
-- [Joie de Livre](https://maps.app.goo.gl/Fg6yqeHxNaf2cDWE9): bookstore, cafe, bar, all in one place.
+- [The Word](https://maps.app.goo.gl/MaQD6GduVRRg1JpE6): Iconic book store near McGill catering to young intellectuals.
+- [Joie de Livre](https://maps.app.goo.gl/Fg6yqeHxNaf2cDWE9): Bookstore, cafe, bar, all in one place.
 - [De Stiil](https://maps.app.goo.gl/uQQuV3ap9jtZGKyn8): Great English bookstore on Duluth.
 
 
@@ -199,7 +199,7 @@ You have to bring a snack if you plan to drink alcohol in a park.
 
 ## Vintage shopping
 
-- [Eva B](https://maps.app.goo.gl/GUzSWNuSgj33ox5x6): the most well-known thrift store in town. Has a fancier cousin called Eva D down the street.
+- [Eva B](https://maps.app.goo.gl/GUzSWNuSgj33ox5x6): The most well-known thrift store in town. Has a fancier cousin called Eva D down the street.
 - [Marché Floh](https://maps.app.goo.gl/mQG5wWd1XTe8ePjC8): Great thrift store on St. Denis. There are a few more thrift stores in the area, so this is a good place to start.
 - [Hadio](https://maps.app.goo.gl/T58K8JuKW62rDjV38): Iconic thrift store on Rue Mont-Royal.
 
