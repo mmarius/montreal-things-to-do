@@ -87,6 +87,7 @@ Montréal has a ridiculously good coffee scene and you can find great coffee sho
 - [Café Paquebot Mont-Royal](https://maps.app.goo.gl/VnSomV9nFTGn1wdCA): Lowkey third-wave coffee shop. Try the miso caramel latte!
 - [Novanta](https://maps.app.goo.gl/1pfjgYeRZFgKac2R9): Benno's favourite cafe for the vibes and the lovely Italian owners.
 - [Escape](https://maps.app.goo.gl/R8N5BeGabyZRF2Lz6): Amazing coffee. Make sure to get a pour over.
+- [Cafe Eclair](https://maps.app.goo.gl/qGTQbeMv9tZ2byJ6A): Great third wave coffee with awesome selection of coffee from Taith, The Barn, etc. They have have a small library if you want to read a book while enjoying your coffee.
 
 ### Poutine
 
