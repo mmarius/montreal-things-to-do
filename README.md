@@ -31,7 +31,17 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 
 ## COLM 2025 specific info
 
-[COLM 2025](https://colmweb.org/) will happen from October 7th to 10th at the [Palais des Congrès](https://maps.app.goo.gl/2KBzjB32JPW4WBkh8) in Downtown Montréal. In my opinion (Marius), this is the least interesting part of Montréal. Luckily, the Palais des Congrès is connected to the Place-d'Armes metro station (orange line), so it will be easy to explore the city from there. At least you're very close to Montréal's most famous church, Notre-Dame!
+[COLM 2025](https://colmweb.org/) will happen from October 7th to 10th at the [Palais des Congrès](https://maps.app.goo.gl/2KBzjB32JPW4WBkh8) in Downtown Montréal. In our opinion, this is the least interesting part of Montréal but at least you're very close to Montréal's most famous church, Notre-Dame! Luckily, the Palais des Congrès is connected to the Place-d'Armes metro station (orange line), so it will be easy to explore the city from there. Most of our recommendations are in other parts of the city and we highly recommend leaving downtown to discover the true Montréal :).
+
+That said, for those of you that prefer spending their lunch break not too far away from the venue, below is a list of places in reasonable distance from the Palais des Congrès.
+
+- [Café Paquebot Vieux-Montréal](https://maps.app.goo.gl/vKCNA6MrPuJEiKVf8): Old Montréal branch of café paquebot.
+- [Fleurs et Cadeaux](https://maps.app.goo.gl/sUMTXwc5WiuPNs756): Amazing Japense restaurant.
+- Chinatown is just a few minutes away by walk. Our recs there are: [Nouilles de Lan Zhou](https://maps.app.goo.gl/aQ3QfvDTvNdZ2gWo8), [La Toxica](https://maps.app.goo.gl/oV86RgCY3NUj1LHt5), [La Capital](https://maps.app.goo.gl/UjXh5y8gk1yED3q19), [Sammi & Soupe Dumpling](https://maps.app.goo.gl/apPpRtV9mj14K5JS8), and [Pâtisserie Coco](https://maps.app.goo.gl/dX6sAmy9QseQr5PR9).
+- [LE CENTRAL](https://maps.app.goo.gl/dYEvsageEpcccKh27): Food court just outside of Chinatown.
+- [Neotokyo](https://maps.app.goo.gl/nagME6nf4k7B1ovg9): Solid Ramen place.
+- [Crew Collective & Cafe](https://maps.app.goo.gl/NhjwJF2AKFTGWEBR9): Café in a very pretty building. Gets very crowded on the weekend.
+- [Brewskey](https://maps.app.goo.gl/QxTHdbFVbqWyjHK36): Brewery in the oldtown not too far from the Palais des Congrès.
 
 ## Getting around
 
@@ -75,7 +85,6 @@ Montréal has a ridicioulsy good coffee scene and you can find great coffee shop
 - [Café Caron & frères](https://maps.app.goo.gl/9ZJKtPH6oS27F6sG6): Coffee shop owned by two brothers. They don't roast but they offer a selection of beans from Canada and the world which they often change! One of the best cafés in the city.
 - [Café Even](https://maps.app.goo.gl/92kz7BXFwPPxq5Ju7): Near the Mila building. Roast their own beans on site. Great pour overs. Definitely worth a visit.
 - [Café Paquebot Mont-Royal](https://maps.app.goo.gl/VnSomV9nFTGn1wdCA): Lowkey third-wave coffee shop. Try the miso caramel latte!
-- [Crew Collective & Cafe](https://maps.app.goo.gl/NhjwJF2AKFTGWEBR9): Café in a very pretty building. Gets very crowded on the weekend.
 - [Novanta](https://maps.app.goo.gl/1pfjgYeRZFgKac2R9): Benno's favourite cafe for the vibes and the lovely Italian owners.
 
 ### Poutine
@@ -153,6 +162,7 @@ You CANNOT visit Montréal without having poutine.
 - [Stash Café](https://maps.app.goo.gl/bwVttvJqoTN7UQGVA): Great Polish restaurant in the old town. This is what Germans call "deftige Küche"
 - [Tesfa](https://maps.app.goo.gl/LgtG9jzD4J42wCcc9): Great falafels and hummus.
 - [La Belle Tonki](https://maps.app.goo.gl/sRvj9QxgY9EvuRh78): Interesting Korean fusion place. Make sure to try the kimchi poutine!
+- [Fleurs et Cadeaux](https://maps.app.goo.gl/sUMTXwc5WiuPNs756): Amazing Japense restaurant.
 
 ## Drinks
 
