@@ -93,6 +93,7 @@ Montréal has a ridiculously good coffee scene and you can find great coffee sho
 - [Cafe Origine](https://maps.app.goo.gl/rsqnf4wtWDFMRGFu6): Good coffee, cute vibes and art.
 - [OSMO X MARUSAN Café-Terrasse](https://maps.app.goo.gl/6jMm9836yicUfCiX8): Cool sort of undergound hip vibes with outdoor seating in the backyward and it's a bar at night. Great selection of drinks and food, also suitable if you want to work on laptop.
 - [Pikolo Espresso Bar](https://maps.app.goo.gl/yu9G5t41DeR8d5Qp7): Great coffee!
+- [Anticafe](https://maps.app.goo.gl/j5npgey6kU9WSV4KA): Cafe co-working space in Place des Arts. It's a pay-by-hour with unlimited snacks and drinks, tons of seating options across different rooms, and nice big windows overlooking the square. 
 
 ### Poutine
 
@@ -165,7 +166,7 @@ You CANNOT visit Montréal without having poutine.
 ### Other
 
 - [Drogheria Fine](https://maps.app.goo.gl/u9NHyVLAmLiQWPcd7): Cheap counter for piping hot gnocchi served with bolognese and a mountain or parmesan.
-- [Falafel Yoni](https://maps.app.goo.gl/3kLAFpCzBRVwWpVJ8): One of the best falafel places around Mile-End.
+- [Falafel Yoni](https://maps.app.goo.gl/3kLAFpCzBRVwWpVJ8): One of the best falafel places around Mile-End. (Elinor says this is hands down the best place for falafel in Montreal. I recommend the za'atar fries & amba sauce on falafel).
 - [Bernie Beigne](https://maps.app.goo.gl/rgt87PZh5deHvKah9): Get the glazed donuts. Get very busy on the weekend.
 - [Jean-Talon Markt](https://maps.app.goo.gl/LwG67j3SZxG36GNM7): Nice farmers market. There are several restaurants and cafes around the market as well. Definitely worth a visit.
 - [Stash Café](https://maps.app.goo.gl/bwVttvJqoTN7UQGVA): Great Polish restaurant in the old town. This is what Germans call "deftige Küche"
