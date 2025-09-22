@@ -138,6 +138,9 @@ You CANNOT visit Montréal without having poutine.
 - [Nouilles de Lan Zhou](https://maps.app.goo.gl/aQ3QfvDTvNdZ2gWo8): Another great Chinese noodles place. Get very busy on the weekend.
 - [Fondue Haidilao](https://maps.app.goo.gl/TiXRBTXtHhVtYXDF8): Solid hotpot place with a show.
 - [Sammi & Soupe Dumpling](https://maps.app.goo.gl/apPpRtV9mj14K5JS8): One of the best dumpling places in Montréal.
+- [Kim Fung](https://maps.app.goo.gl/2hSfSMvCL9hxsCfd6): Good place to go for dim sum near the Palais des Congrès.
+- [Dynastie](https://maps.app.goo.gl/g23gPjzLxTqXXR6y7): Another option for dim sum that's slightly closer to the Palais.
+- [Patisserie Bao Bao](https://maps.app.goo.gl/u8Zhb4Rgk5TziDXMA): Good place to grab a baozi (Chinese filled buns) for a quick lunch near the Palais.
 
 ### Mexican
 
