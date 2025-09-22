@@ -6,6 +6,7 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 
 ## Table of Contents
 
+- [COLM 2025 specific info](#colm-2025-specific-info)
 - [Getting around](#getting-around)
 - [Food](#food)
   - [Bakeries](#bakeries)
@@ -30,7 +31,7 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 
 ## COLM 2025 specific info
 
-[COLM 2025](https://colmweb.org/) will happen from October 7th to 10th at the [Palais des Congrès](https://maps.app.goo.gl/2KBzjB32JPW4WBkh8) in Downtown Montréal. In my opinion (Marius), this is the least interesting part of Montréal. Luckily, the Palais des Congrès is connected to the Place-d'Armes metro station (orange line), so it will be easy to explore the city from there. At least you're very close to Montreal's most famous church, Notre-Dame!
+[COLM 2025](https://colmweb.org/) will happen from October 7th to 10th at the [Palais des Congrès](https://maps.app.goo.gl/2KBzjB32JPW4WBkh8) in Downtown Montréal. In my opinion (Marius), this is the least interesting part of Montréal. Luckily, the Palais des Congrès is connected to the Place-d'Armes metro station (orange line), so it will be easy to explore the city from there. At least you're very close to Montréal's most famous church, Notre-Dame!
 
 ## Getting around
 
@@ -44,16 +45,17 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 ### Bakeries
 
 - [Louise Boulangerie](https://maps.app.goo.gl/8acG9PFjCZh5abgP6): A go-to place for Mila folks to get some of the best croissants, or other fancy pastries, in town.
-- [Pasticceria Alati-Caserta](https://maps.app.goo.gl/DtGzA6NL33p6JJAx5): todo
-- [Aux Merveilleux de Fred](https://maps.app.goo.gl/ADSwaYqUXA4p2Uyt6): todo
+- [Pasticceria Alati-Caserta](https://maps.app.goo.gl/DtGzA6NL33p6JJAx5): Italian bakery in Little Italy. Large variety of cannoli.
+- [Aux Merveilleux de Fred](https://maps.app.goo.gl/ADSwaYqUXA4p2Uyt6): One of the best croissants in town.
 - [Hof Kelsten](https://maps.app.goo.gl/MW99CW7zrQHAs9zw7): Very good baguette and croissants.
 - [Toledo](todo): Very popular bakery in the Plateau.
 - [Pâtisserie Coco](https://maps.app.goo.gl/dX6sAmy9QseQr5PR9): Nice Chinese bakery in Chinatown.
 - [Padaria Portuguesa](https://maps.app.goo.gl/S7UiiBdYukdu55Ri6): Make sure to try their Pastel de Nata.
+- [Boulangerie Cheskie](https://maps.app.goo.gl/SyvafhFSYSUtNK2HA): Famous kosher bakery in Mile-End.
 
 ### Bagels
 
-- [Fairmount Bagel](https://maps.app.goo.gl/K3wBonNEYAmaypHj6): Arguably the best bagel place in town. There is a huge rivalry with the slightly more famous St Viateur. But we are loyal to Fairmount bagels! It is open 24/7, so get oven-fresh bagels after a long night out! This institution of Montreal culture is surrounded by two other iconic places: Gnocchi and Kem Coba (ice cream). Paying by cash is recommended. +5% fee for using a credit card.
+- [Fairmount Bagel](https://maps.app.goo.gl/K3wBonNEYAmaypHj6): Arguably the best bagel place in town. There is a huge rivalry with the slightly more famous St Viateur. But we are loyal to Fairmount bagels! It is open 24/7, so get oven-fresh bagels after a long night out! This institution of Montréal culture is surrounded by two other iconic places: Gnocchi and Kem Coba (ice cream). Paying by cash is recommended. +5% fee for using a credit card.
 - [St-Viateur Bagel](https://maps.app.goo.gl/tufpCjcKPkJFLEdz5): The other famous bagel bakery in Montréal. They also have a café on Rue Mont Royal (very long line on the weekend). They also have a [café](https://maps.app.goo.gl/zLywjdL8pChoGCzL8) on Rue Mont Royal.
 
 Make sure to try both and let us know which one you like better ;).
@@ -67,7 +69,7 @@ Make sure to try both and let us know which one you like better ;).
 
 ### Cafés
 
-Montreal has a ridicioulsy good coffee scene and you can find great coffee shops in most neighborhoods. Below is a non-exhaustive list of some of our favorite coffee shops.
+Montréal has a ridicioulsy good coffee scene and you can find great coffee shops in most neighborhoods. Below is a non-exhaustive list of some of our favorite coffee shops.
 
 - [Café Myriade - Mont-Royal](https://maps.app.goo.gl/JJba3MmuW42NfHi4A): Nice coffee shop with a slightly more Italian vibe. Has a fun outdoor sitting area. Marius' favorite café to work from.
 - [Café Caron & frères](https://maps.app.goo.gl/9ZJKtPH6oS27F6sG6): Coffee shop owned by two brothers. They don't roast but they offer a selection of beans from Canada and the world which they often change! One of the best cafés in the city.
@@ -84,12 +86,12 @@ You CANNOT visit Montréal without having poutine.
 - [Romados](https://maps.app.goo.gl/xTUuWhCc7NNt3ynT7): If you like chicken on your poutine, go here.
 - [Patati Patata Friterie de Luxe](https://maps.app.goo.gl/u1oQmuMz7GcEanpDA): Benno's and Marius' favorite poutine place. Very small place with great vibes. (Benno: they add a bit of wine to the sauce *chef's kiss*)
 - [Chez Claudette](https://maps.app.goo.gl/d1i5M9c4L9UD7Eb78): Casse-croûte with a large selection of poutine.
-- [La Banquise](https://maps.app.goo.gl/s6j96aWxWRgTq5637): The most famous poutine in Montreal. 24/7 open, very diverse toppings.
+- [La Banquise](https://maps.app.goo.gl/s6j96aWxWRgTq5637): The most famous poutine in Montréal. 24/7 open, very diverse toppings.
 
 <p align="center">
   <img src="IMG-20250912-WA0025.jpg" alt="Patati Patata" width="450"/>
   <br>
-  <em>Some of us at Patati Patata - true Montreal vibes</em>
+  <em>Some of us at Patati Patata - true Montréal vibes</em>
 </p>
 
 ### Pizza
@@ -98,24 +100,25 @@ You CANNOT visit Montréal without having poutine.
 - [Pizza Il Focolaio](https://maps.app.goo.gl/ZgQgMfqLixSTQizK6): Great Italian restaurant in Downtown. Also make sure to try their salad.
 - [Café San Gennaro](https://maps.app.goo.gl/ZwLmFg1i3rRsk9Vr9): Roman square pizza sold by the slice. Try the potato pizza. Maybe have dessert also, they have a great selection of Italian pastries.
 - [Pizza Toni](https://maps.app.goo.gl/PwiScf97sRnxLDmBA): Another great NY-style pizza place.
-- [SEGRETA](https://maps.app.goo.gl/MoMPPirLoM49dskG9): todo
+- [SEGRETA](https://maps.app.goo.gl/MoMPPirLoM49dskG9): Antoher well known pizza place in Montréal. Also sells pizza by the slice.
 
 ### Sandwiches
 
-- [Kahwa Café](https://maps.app.goo.gl/gG9XgS2mq5r35toA9): todo
-- [Capitaine Sandwich](https://maps.app.goo.gl/nfB4ggNEuHiTBjcp9): todo
+- [Kahwa Café](https://maps.app.goo.gl/gG9XgS2mq5r35toA9): One of the best sandwiches in Montréal. They make their own bread. The chicken sandwich is a must try. Bring cash if you don't have a debit card. They also have a [second location](https://maps.app.goo.gl/gUbGSLuBU3hZzCXGA) on Rachel.
+- [Capitaine Sandwich](https://maps.app.goo.gl/nfB4ggNEuHiTBjcp9): Another great sandwich place. Try the haloumi sandwich.
 - [Dépanneur Le Pick Up](https://maps.app.goo.gl/YTQeR4wVgKF8Eod49): great spot near Mila, the halloumi sandwich is great (Benno)
-- [Lester's Deli](https://maps.app.goo.gl/ccxBr5YqsasHuCFy5): Smoked meat
-- [PIAZZA SALUMI](https://maps.app.goo.gl/tK2FvakZNC8EuZcA6): right in the heart of Little Italy, and you feel that from the second you walk in.
-- [Panino Pazzo](https://maps.app.goo.gl/LQxi8FG7DPX6cCC3A): todo
+- [Lester's Deli](https://maps.app.goo.gl/ccxBr5YqsasHuCFy5): Known for their smoked meat.
+- [PIAZZA SALUMI](https://maps.app.goo.gl/tK2FvakZNC8EuZcA6): Right in the heart of Little Italy, and you feel that from the second you walk in.
+- [Panino Pazzo](https://maps.app.goo.gl/LQxi8FG7DPX6cCC3A): Great Italian sandwich place.
 - [Schwartz's Deli](https://maps.app.goo.gl/tpSRi8D8EXTzywWB6): An institution in Montréal on Saint-Laurent street. Best known for their smoked meat sandwiches.
-- [Wilensky's](https://maps.app.goo.gl/YgvEMPYVbvqQWyk9A): old-school, down-to-earth, cash-only, iconic, you feel not much has changed much since the 40s/50s/60s.
+- [Wilensky's](https://maps.app.goo.gl/YgvEMPYVbvqQWyk9A): Old-school, down-to-earth, cash-only, iconic, you feel not much has changed much since the 40s/50s/60s.
 - [Renzo's](https://maps.app.goo.gl/pJm3xZLskPw8MbMY7): Relatively new sandwich place in Mile-End. #HipsterMileEnd. Great Italian style sandwiches with a twist. Big portions one sandwich for two is plenty.
 
 ### Ramen
 
-- [Yokato Yokabai Ramen](https://maps.app.goo.gl/MvvoYV79zyFKZwG77): Hands down the best Ramen in Montréal. It's a bit pricy though.
-- [](): todo
+- [Yokato Yokabai Ramen](https://maps.app.goo.gl/MvvoYV79zyFKZwG77): Hands down the best Ramen in Montréal. They recently got featured in the Guide Michelin. They don't take reservations but they have a waitlist.
+- [Kazo Ramen](https://maps.app.goo.gl/D1L2PHXSfYUzPC5D9): Solid ramen place with intresting docoration. 
+- [Sansotei Ramen](https://maps.app.goo.gl/mgMyQT7mc7Uy1vjW7): Another solid ramen place.
 
 ### Chinese
 
@@ -147,9 +150,9 @@ You CANNOT visit Montréal without having poutine.
 - [Falafel Yoni](https://maps.app.goo.gl/3kLAFpCzBRVwWpVJ8): One of the best falafel places around Mile-End.
 - [Bernie Beigne](https://maps.app.goo.gl/rgt87PZh5deHvKah9): Get the glazed donuts. Get very busy on the weekend.
 - [Jean-Talon Markt](https://maps.app.goo.gl/LwG67j3SZxG36GNM7): Nice farmers market. There are several restaurants and cafes around the market as well. Definitely worth a visit.
-- [Stash Café](https://maps.app.goo.gl/bwVttvJqoTN7UQGVA): todo
-- [Tesfa](https://maps.app.goo.gl/LgtG9jzD4J42wCcc9): todo
-- [La Belle Tonki](https://maps.app.goo.gl/sRvj9QxgY9EvuRh78): todo
+- [Stash Café](https://maps.app.goo.gl/bwVttvJqoTN7UQGVA): Great Polish restaurant in the old town. This is what Germans call "deftige Küche"
+- [Tesfa](https://maps.app.goo.gl/LgtG9jzD4J42wCcc9): Great falafels and hummus.
+- [La Belle Tonki](https://maps.app.goo.gl/sRvj9QxgY9EvuRh78): Interesting Korean fusion place. Make sure to try the kimchi poutine!
 
 ## Drinks
 
@@ -161,6 +164,7 @@ You CANNOT visit Montréal without having poutine.
 - [HELM - Microbrasserie sur Bernard](https://maps.app.goo.gl/We6QFRXiVk2tFLbg6): Another solid bar with nice indoor seating. They offer a XXL poutine to share.
 - [Brewskey](https://maps.app.goo.gl/QxTHdbFVbqWyjHK36): Brewery in the oldtown not too far from the Palais des Congrès.
 - [Terrasse St-Ambroise](todo): Great beer garden along the canal (e.g. do a bike ride and get a beer here). Check on their website for the opening hours.
+- [Projet Pilote](https://maps.app.goo.gl/qyHoqib7hyPAJcQj6): Great cocktail bar on Rue Rachel (so it's easy to bike there). They also brew their own beers and make personalized cocktails based on what you like.
 
 ## Bookstores
 - [The Word](https://maps.app.goo.gl/MaQD6GduVRRg1JpE6): iconic book store near McGill catering to young intellectuals.
@@ -176,19 +180,22 @@ You CANNOT visit Montréal without having poutine.
 
 You have to bring a snack if you plan to drink alcohol in a park.
 
-- [](): todo
-- [](): todo
-- [](): todo
+- [Parc Jeanne-Mance](https://maps.app.goo.gl/NTfBiLf4ApYMqW4X8): One of Montréal's most famous parks. Buzzing with people on the weekend. Just walk around and enjoy.
+- [Parc du Mont Royal](https://maps.app.goo.gl/zs28ifHTVwKQzudK7): Montréal's biggest park. You should definitely hike up the mountain to Belvedere Kondiaronk.
+- [Parc La Fontaine](https://maps.app.goo.gl/1c2Q2x9eB8NeV3no6): One of Marius' favorite parks. Great for a walk, run, or just reading a book.
+- [Parc René Lévesque](https://maps.app.goo.gl/3Hj2DmdyfuHk7VPy9): If you are feeling adventurous, bike here along the Lachine canal. Amazing views on the St. Lawrence river.
 
 ## Vintage shopping
 
 - [Eva B](https://maps.app.goo.gl/GUzSWNuSgj33ox5x6): the most well-known thrift store in town. Has a fancier cousin called Eva D down the street.
-- [](): todo
+- [Marché Floh](https://maps.app.goo.gl/mQG5wWd1XTe8ePjC8): Great thrift store on St. Denis. There are a few more thrift stores in the area, so this is a good place to start.
+- [Hadio](https://maps.app.goo.gl/T58K8JuKW62rDjV38): Iconic thrift store on Rue Mont-Royal.
 
 ## Misc.
 
 - Walk up Mont-Royal.
-- Biking along the Lachine canal.
+- Bike along the Lachine canal, starting in the old town.
 - Botanical Garden is open at night during fall with a light show: [Gardens of Light](https://calendrier.espacepourlavie.ca/gardens-of-light)
-- Montreal is famous for its murals (wall art). There are some guided tours!
-- A crowdsourced map of the vibe of each neighborhood: [HoodMaps Montreal](https://hoodmaps.com/montreal-neighborhood-map).
+- Montréal is famous for its murals (wall art). There are some guided tours!
+- A crowdsourced map of the vibe of each neighborhood: [HoodMaps Montréal](https://hoodmaps.com/Montréal-neighborhood-map).
+- If you like visiting churches, definitely check out Notre-Dame and Saint-Joseph's Oratory (nice spot to watch a sunset too).
