@@ -31,12 +31,12 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
 
 ## COLM 2025 specific info
 
-[COLM 2025](https://colmweb.org/) will happen from October 7th to 10th at the [Palais des Congrès](https://maps.app.goo.gl/2KBzjB32JPW4WBkh8) in Downtown Montréal. In our opinion, this is the least interesting part of Montréal but at least you're very close to Montréal's most famous church, Notre-Dame! Luckily, the Palais des Congrès is connected to the Place-d'Armes metro station (orange line), so it will be easy to explore the city from there. Most of our recommendations are in other parts of the city and we highly recommend leaving downtown to discover the true Montréal :).
+[COLM 2025](https://colmweb.org/) will happen from October 7th to 10th at the [Palais des Congrès](https://maps.app.goo.gl/2KBzjB32JPW4WBkh8) in Downtown Montréal. In our opinion, this is the least interesting part of Montréal (but at least you're very close to Montréal's most famous church, Notre-Dame!). Luckily, the Palais des Congrès is connected to the Place-d'Armes metro station (orange line), so it is very easy to explore the city from there. Most of our recommendations are in other parts of the city (Plateau, Mile-End, and Little Italy) and we highly recommend leaving downtown to discover the true Montréal :).
 
-That said, for those of you that prefer spending their lunch break not too far away from the venue, below is a list of places in reasonable distance from the Palais des Congrès.
+That said, for those of you who prefer spending their lunch break not too far away from the venue, below is a list of places in reasonable distance from the Palais des Congrès.
 
 - [Café Paquebot Vieux-Montréal](https://maps.app.goo.gl/vKCNA6MrPuJEiKVf8): Old Montréal branch of café paquebot.
-- [Fleurs et Cadeaux](https://maps.app.goo.gl/sUMTXwc5WiuPNs756): Amazing Japense restaurant.
+- [Fleurs et Cadeaux](https://maps.app.goo.gl/sUMTXwc5WiuPNs756): Amazing Japanese restaurant.
 - Chinatown is just a few minutes away by walk. Our recs there are: [Nouilles de Lan Zhou](https://maps.app.goo.gl/aQ3QfvDTvNdZ2gWo8), [La Toxica](https://maps.app.goo.gl/oV86RgCY3NUj1LHt5), [La Capital](https://maps.app.goo.gl/UjXh5y8gk1yED3q19), [Sammi & Soupe Dumpling](https://maps.app.goo.gl/apPpRtV9mj14K5JS8), and [Pâtisserie Coco](https://maps.app.goo.gl/dX6sAmy9QseQr5PR9).
 - [LE CENTRAL](https://maps.app.goo.gl/dYEvsageEpcccKh27): Food court just outside of Chinatown.
 - [Neotokyo](https://maps.app.goo.gl/nagME6nf4k7B1ovg9): Solid Ramen place.
@@ -74,18 +74,19 @@ Make sure to try both and let us know which one you like better ;).
 
 - [MangeDansMonHood](https://maps.app.goo.gl/P89tYV1uarXhe4vLA): Some say this is the best burger in Montréal. They might be right.
 - [Double’s](https://maps.app.goo.gl/sCdWeujHPJcNdMjs9): Bar with great burgers.
-- [Notre Boeauf de Grace](https://maps.app.goo.gl/Ejviouy3fKMvCbZ89): Probably Benno's favourite burger place with fond memories.
+- [Notre Boeuf de Grace](https://maps.app.goo.gl/Ejviouy3fKMvCbZ89): Probably Benno's favourite burger place with fond memories.
 
 
 ### Cafés
 
-Montréal has a ridicioulsy good coffee scene and you can find great coffee shops in most neighborhoods. Below is a non-exhaustive list of some of our favorite coffee shops.
+Montréal has a ridiculously good coffee scene and you can find great coffee shops in most neighborhoods. Below is a non-exhaustive list of some of our favorite coffee shops.
 
 - [Café Myriade - Mont-Royal](https://maps.app.goo.gl/JJba3MmuW42NfHi4A): Nice coffee shop with a slightly more Italian vibe. Has a fun outdoor sitting area. Marius' favorite café to work from.
 - [Café Caron & frères](https://maps.app.goo.gl/9ZJKtPH6oS27F6sG6): Coffee shop owned by two brothers. They don't roast but they offer a selection of beans from Canada and the world which they often change! One of the best cafés in the city.
 - [Café Even](https://maps.app.goo.gl/92kz7BXFwPPxq5Ju7): Near the Mila building. Roast their own beans on site. Great pour overs. Definitely worth a visit.
 - [Café Paquebot Mont-Royal](https://maps.app.goo.gl/VnSomV9nFTGn1wdCA): Lowkey third-wave coffee shop. Try the miso caramel latte!
 - [Novanta](https://maps.app.goo.gl/1pfjgYeRZFgKac2R9): Benno's favourite cafe for the vibes and the lovely Italian owners.
+- [Escape](https://maps.app.goo.gl/R8N5BeGabyZRF2Lz6): Amazing coffee. Make sure to get a pour over.
 
 ### Poutine
 
@@ -109,7 +110,7 @@ You CANNOT visit Montréal without having poutine.
 - [Pizza Il Focolaio](https://maps.app.goo.gl/ZgQgMfqLixSTQizK6): Great Italian restaurant in Downtown. Also make sure to try their salad.
 - [Café San Gennaro](https://maps.app.goo.gl/ZwLmFg1i3rRsk9Vr9): Roman square pizza sold by the slice. Try the potato pizza. Maybe have dessert also, they have a great selection of Italian pastries.
 - [Pizza Toni](https://maps.app.goo.gl/PwiScf97sRnxLDmBA): Another great NY-style pizza place.
-- [SEGRETA](https://maps.app.goo.gl/MoMPPirLoM49dskG9): Antoher well known pizza place in Montréal. Also sells pizza by the slice.
+- [SEGRETA](https://maps.app.goo.gl/MoMPPirLoM49dskG9): Another well known pizza place in Montréal. Also sells pizza by the slice.
 
 ### Sandwiches
 
@@ -126,7 +127,7 @@ You CANNOT visit Montréal without having poutine.
 ### Ramen
 
 - [Yokato Yokabai Ramen](https://maps.app.goo.gl/MvvoYV79zyFKZwG77): Hands down the best Ramen in Montréal. They recently got featured in the Guide Michelin. They don't take reservations but they have a waitlist.
-- [Kazo Ramen](https://maps.app.goo.gl/D1L2PHXSfYUzPC5D9): Solid ramen place with intresting docoration. 
+- [Kazo Ramen](https://maps.app.goo.gl/D1L2PHXSfYUzPC5D9): Solid ramen place with interesting decoration. 
 - [Sansotei Ramen](https://maps.app.goo.gl/mgMyQT7mc7Uy1vjW7): Another solid ramen place.
 
 ### Chinese
@@ -162,7 +163,8 @@ You CANNOT visit Montréal without having poutine.
 - [Stash Café](https://maps.app.goo.gl/bwVttvJqoTN7UQGVA): Great Polish restaurant in the old town. This is what Germans call "deftige Küche"
 - [Tesfa](https://maps.app.goo.gl/LgtG9jzD4J42wCcc9): Great falafels and hummus.
 - [La Belle Tonki](https://maps.app.goo.gl/sRvj9QxgY9EvuRh78): Interesting Korean fusion place. Make sure to try the kimchi poutine!
-- [Fleurs et Cadeaux](https://maps.app.goo.gl/sUMTXwc5WiuPNs756): Amazing Japense restaurant.
+- [Fleurs et Cadeaux](https://maps.app.goo.gl/sUMTXwc5WiuPNs756): Amazing Japanese restaurant.
+- [Jako](https://maps.app.goo.gl/JFot4gTxowsiWmcU8): Great Japanese Korean fusion place.
 
 ## Drinks
 
