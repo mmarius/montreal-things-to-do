@@ -62,6 +62,7 @@ That said, for those of you who prefer spending their lunch break not too far aw
 - [Pâtisserie Coco](https://maps.app.goo.gl/dX6sAmy9QseQr5PR9): Nice Chinese bakery in Chinatown.
 - [Padaria Portuguesa](https://maps.app.goo.gl/S7UiiBdYukdu55Ri6): Make sure to try their Pastel de Nata.
 - [Boulangerie Cheskie](https://maps.app.goo.gl/SyvafhFSYSUtNK2HA): Famous kosher bakery in Mile-End.
+- [Guillaume](https://maps.app.goo.gl/UJnvSZukgRTUmVrRA): Hands down one of the best bakeries in Montreal, serving everything from bagette to sweet goods. If you like olive bread, definitely go try it out from this place.
 
 ### Bagels
 
@@ -93,7 +94,8 @@ Montréal has a ridiculously good coffee scene and you can find great coffee sho
 - [Cafe Origine](https://maps.app.goo.gl/rsqnf4wtWDFMRGFu6): Good coffee, cute vibes and art.
 - [OSMO X MARUSAN Café-Terrasse](https://maps.app.goo.gl/6jMm9836yicUfCiX8): Cool sort of undergound hip vibes with outdoor seating in the backyward and it's a bar at night. Great selection of drinks and food, also suitable if you want to work on laptop.
 - [Pikolo Espresso Bar](https://maps.app.goo.gl/yu9G5t41DeR8d5Qp7): Great coffee!
-- [Anticafe](https://maps.app.goo.gl/j5npgey6kU9WSV4KA): Cafe co-working space in Place des Arts. It's a pay-by-hour with unlimited snacks and drinks, tons of seating options across different rooms, and nice big windows overlooking the square. 
+- [Anticafe](https://maps.app.goo.gl/j5npgey6kU9WSV4KA): Cafe co-working space in Place des Arts. It's a pay-by-hour with unlimited snacks and drinks, tons of seating options across different rooms, and nice big windows overlooking the square.
+- [Cafe Alphabet](): Roaters turned brewers, this spot is famous in Mile-end for Greek-insiped Freddo coffee.
 
 ### Poutine
 
@@ -161,6 +163,7 @@ You CANNOT visit Montréal without having poutine.
 
 - [Épicerie Pumpui](https://maps.app.goo.gl/KnzMkDtcfHooraxZA): Small thai counter near Mila serving up homemade curries, pad thai and other delights. If you like thai food, this is a must visit.
 - [Pichai](https://maps.app.goo.gl/YpHdjCYL43J1JyyX9): Sister restaurant to Pumpui. More of a sit-down vibe with plates to share and a menu that changes with the seasons.
+- [Siam](https://maps.app.goo.gl/nNrvwJsPTSmzysPcA): Great option near the the conference centre. The Veg Pad Thai is quite delicious and flovorful.
 
 ### Food courts
 
