@@ -18,6 +18,7 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
   - [Sandwiches](#sandwiches)
   - [Ramen](#ramen)
   - [Chinese](#chinese)
+  - [Indian](#indian)
   - [Mexican](#mexican)
   - [Thai](#thai)
   - [Food courts](#food-courts)
@@ -149,6 +150,12 @@ You CANNOT visit Montréal without having poutine.
 - [Kim Fung](https://maps.app.goo.gl/2hSfSMvCL9hxsCfd6): Good place to go for dim sum near the Palais des Congrès.
 - [Dynastie](https://maps.app.goo.gl/g23gPjzLxTqXXR6y7): Another option for dim sum that's slightly closer to the Palais.
 - [Patisserie Bao Bao](https://maps.app.goo.gl/u8Zhb4Rgk5TziDXMA): Good place to grab a baozi (Chinese filled buns) for a quick lunch near the Palais.
+
+### Indian
+- [Le Super Qualité](https://maps.app.goo.gl/vHd3g675S3zFy51G6): Inexpensive, quality Indian street food place. Vada pav, Dahi puri and Cutting chai are a must-try.
+- [Dosa Pointe](https://maps.app.goo.gl/CPyj7rhNeDQLNXiq6): Montreal's do go place for South Indian cuisine. Bonus: they have amazing Indo-Chinese menu too.
+- [Rutba](https://maps.app.goo.gl/Tb3rxNDCDJYdS6wAA): Newly opened spot in Montreal with amazing fusion Indian food and great ambience. Has 
+- [Bawarchi](https://maps.app.goo.gl/oanU1AJKhiAg6GUw9): Best spot in town for Hyderabadi biryani. Birayni plates come in big servings so sharing is encouraged.
 
 ### Mexican
 
