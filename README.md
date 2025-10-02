@@ -67,7 +67,7 @@ That said, for those of you who prefer spending their lunch break not too far aw
 ### Bagels
 
 - [Fairmount Bagel](https://maps.app.goo.gl/K3wBonNEYAmaypHj6): Arguably the best bagel place in town. There is a huge rivalry with the slightly more famous St Viateur. But we are loyal to Fairmount bagels! It is open 24/7, so get oven-fresh bagels after a long night out! This institution of Montréal culture is surrounded by two other iconic places: Gnocchi and Kem Coba (ice cream). Paying by cash is recommended. +5% fee for using a credit card.
-- [St-Viateur Bagel](https://maps.app.goo.gl/tufpCjcKPkJFLEdz5): The other famous bagel bakery in Montréal. They also have a café on Rue Mont Royal (very long line on the weekend). They also have a [café](https://maps.app.goo.gl/zLywjdL8pChoGCzL8) on Rue Mont Royal.
+- [St-Viateur Bagel](https://maps.app.goo.gl/tufpCjcKPkJFLEdz5): The other famous bagel bakery in Montréal. They also have a [café](https://maps.app.goo.gl/zLywjdL8pChoGCzL8) on Rue Mont Royal (very long line on the weekend).
 
 Make sure to try both and let us know which one you like better ;).
 
@@ -152,9 +152,10 @@ You CANNOT visit Montréal without having poutine.
 - [Patisserie Bao Bao](https://maps.app.goo.gl/u8Zhb4Rgk5TziDXMA): Good place to grab a baozi (Chinese filled buns) for a quick lunch near the Palais.
 
 ### Indian
+
 - [Le Super Qualité](https://maps.app.goo.gl/vHd3g675S3zFy51G6): Inexpensive, quality Indian street food place. Vada pav, Dahi puri and Cutting chai are a must-try.
-- [Dosa Pointe](https://maps.app.goo.gl/CPyj7rhNeDQLNXiq6): Montreal's do go place for South Indian cuisine. Bonus: they have amazing Indo-Chinese menu too.
-- [Rutba](https://maps.app.goo.gl/Tb3rxNDCDJYdS6wAA): Newly opened spot in Montreal with amazing fusion Indian food and great ambience. Has 
+- [Dosa Pointe](https://maps.app.goo.gl/CPyj7rhNeDQLNXiq6): Montreal's go to place for South Indian cuisine. Bonus: they have amazing Indo-Chinese menu too.
+- [Rutba](https://maps.app.goo.gl/Tb3rxNDCDJYdS6wAA): Newly opened spot in Montreal with amazing fusion Indian food and great ambience. 
 - [Bawarchi](https://maps.app.goo.gl/oanU1AJKhiAg6GUw9): Best spot in town for Hyderabadi biryani. Birayni plates come in big servings so sharing is encouraged.
 
 ### Mexican
@@ -199,6 +200,7 @@ You CANNOT visit Montréal without having poutine.
 - [Projet Pilote](https://maps.app.goo.gl/qyHoqib7hyPAJcQj6): Great cocktail bar on Rue Rachel (so it's easy to bike there). They also brew their own beers and make personalized cocktails based on what you like.
 
 ## Bookstores
+
 - [The Word](https://maps.app.goo.gl/MaQD6GduVRRg1JpE6): Iconic book store near McGill catering to young intellectuals.
 - [Joie de Livre](https://maps.app.goo.gl/Fg6yqeHxNaf2cDWE9): Bookstore, cafe, bar, all in one place.
 - [De Stiil](https://maps.app.goo.gl/uQQuV3ap9jtZGKyn8): Great English bookstore on Duluth.
