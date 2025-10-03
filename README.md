@@ -20,6 +20,7 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
   - [Chinese](#chinese)
   - [Mexican](#mexican)
   - [Thai](#thai)
+  - [Middle-eastern](#middle-east)
   - [Food courts](#food-courts)
   - [Other](#other)
 - [Drinks](#drinks)
@@ -164,6 +165,11 @@ You CANNOT visit Montréal without having poutine.
 - [Épicerie Pumpui](https://maps.app.goo.gl/KnzMkDtcfHooraxZA): Small thai counter near Mila serving up homemade curries, pad thai and other delights. If you like thai food, this is a must visit.
 - [Pichai](https://maps.app.goo.gl/YpHdjCYL43J1JyyX9): Sister restaurant to Pumpui. More of a sit-down vibe with plates to share and a menu that changes with the seasons.
 - [Siam](https://maps.app.goo.gl/nNrvwJsPTSmzysPcA): Great option near the the conference centre. The Veg Pad Thai is quite delicious and flovorful.
+
+### Middle-eastern
+
+- [Garage Beirut](https://maps.app.goo.gl/7fHLtAKa5GaAkktc7): Great spot for Lebanese food.
+- [Kaza Maza](https://maps.app.goo.gl/qesDeyTpKFPWyX9U9): Located in Mile-end, this place with unique and cozy interiors is a great spot for mezzes.
 
 ### Food courts
 
