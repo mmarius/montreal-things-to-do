@@ -95,7 +95,7 @@ Montréal has a ridiculously good coffee scene and you can find great coffee sho
 - [OSMO X MARUSAN Café-Terrasse](https://maps.app.goo.gl/6jMm9836yicUfCiX8): Cool sort of undergound hip vibes with outdoor seating in the backyward and it's a bar at night. Great selection of drinks and food, also suitable if you want to work on laptop.
 - [Pikolo Espresso Bar](https://maps.app.goo.gl/yu9G5t41DeR8d5Qp7): Great coffee!
 - [Anticafe](https://maps.app.goo.gl/j5npgey6kU9WSV4KA): Cafe co-working space in Place des Arts. It's a pay-by-hour with unlimited snacks and drinks, tons of seating options across different rooms, and nice big windows overlooking the square.
-- [Cafe Alphabet](): Roaters turned brewers, this spot is famous in Mile-end for Greek-insiped Freddo coffee.
+- [Cafe Alphabet](https://maps.app.goo.gl/mpj5FCncqgENLXBj7): Roaters turned brewers, this spot is famous in Mile-end for Greek-insiped Freddo coffee.
 
 ### Poutine
 
