@@ -20,7 +20,7 @@ Credit: This list was inspired by [Vagrant's Vancouver](https://dippedrusk.com/p
   - [Chinese](#chinese)
   - [Mexican](#mexican)
   - [Thai](#thai)
-  - [Middle-eastern](#middle-east)
+  - [Middle-eastern](#middle-eastern)
   - [Food courts](#food-courts)
   - [Other](#other)
 - [Drinks](#drinks)
