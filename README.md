@@ -218,6 +218,7 @@ You have to bring a snack if you plan to drink alcohol in a park.
 - [Eva B](https://maps.app.goo.gl/GUzSWNuSgj33ox5x6): The most well-known thrift store in town. Has a fancier cousin called Eva D down the street.
 - [Marché Floh](https://maps.app.goo.gl/mQG5wWd1XTe8ePjC8): Great thrift store on St. Denis. There are a few more thrift stores in the area, so this is a good place to start.
 - [Hadio](https://maps.app.goo.gl/T58K8JuKW62rDjV38): Iconic thrift store on Rue Mont-Royal.
+- [Renaissance](https://renaissancequebec.ca/en/our-shops): Multiple locations throughout Montreal, filter by "Boutiques" if you want slighty fancier collection.
 
 ## Misc.
 
