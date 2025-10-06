@@ -63,6 +63,7 @@ That said, for those of you who prefer spending their lunch break not too far aw
 - [Pâtisserie Coco](https://maps.app.goo.gl/dX6sAmy9QseQr5PR9): Nice Chinese bakery in Chinatown.
 - [Padaria Portuguesa](https://maps.app.goo.gl/S7UiiBdYukdu55Ri6): Make sure to try their Pastel de Nata.
 - [Boulangerie Cheskie](https://maps.app.goo.gl/SyvafhFSYSUtNK2HA): Famous kosher bakery in Mile-End.
+- [Kouing Amann](https://maps.app.goo.gl/1nVqztEsnmCFttZFA): Get the Kouign-amann.
 
 ### Bagels
 
